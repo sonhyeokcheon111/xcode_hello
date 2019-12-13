@@ -11,6 +11,6 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
-    printf("Hi friend\n");
+    printf("Hi change\n");
     return 0;
 }
